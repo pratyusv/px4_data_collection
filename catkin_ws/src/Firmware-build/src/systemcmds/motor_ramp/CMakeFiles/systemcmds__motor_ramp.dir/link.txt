@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcmds__motor_ramp.a  CMakeFiles/systemcmds__motor_ramp.dir/motor_ramp.cpp.o
+/usr/bin/ranlib libsystemcmds__motor_ramp.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__leddar_one.a  CMakeFiles/drivers__leddar_one.dir/leddar_one.cpp.o
+/usr/bin/ranlib libdrivers__leddar_one.a

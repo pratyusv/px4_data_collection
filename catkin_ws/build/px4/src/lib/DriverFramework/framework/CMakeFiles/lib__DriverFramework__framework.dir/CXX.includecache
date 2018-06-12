@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pratyush/git/px4_data_collection/catkin_ws/src/Firmware/src/lib/DriverFramework/framework/px4/df_dummy.cpp
+

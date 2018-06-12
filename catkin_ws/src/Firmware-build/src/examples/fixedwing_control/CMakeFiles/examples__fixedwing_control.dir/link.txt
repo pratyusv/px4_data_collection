@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexamples__fixedwing_control.a  CMakeFiles/examples__fixedwing_control.dir/main.cpp.o
+/usr/bin/ranlib libexamples__fixedwing_control.a

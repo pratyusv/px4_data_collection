@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib__led.a  CMakeFiles/lib__led.dir/led.cpp.o
+/usr/bin/ranlib liblib__led.a

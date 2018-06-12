@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexamples__px4_simple_app.a  CMakeFiles/examples__px4_simple_app.dir/px4_simple_app.c.o
+/usr/bin/ranlib libexamples__px4_simple_app.a

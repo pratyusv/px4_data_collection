@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__mavlink__mavlink_tests.a  CMakeFiles/modules__mavlink__mavlink_tests.dir/mavlink_tests.cpp.o CMakeFiles/modules__mavlink__mavlink_tests.dir/mavlink_ftp_test.cpp.o CMakeFiles/modules__mavlink__mavlink_tests.dir/__/mavlink_stream.cpp.o CMakeFiles/modules__mavlink__mavlink_tests.dir/__/mavlink_ftp.cpp.o CMakeFiles/modules__mavlink__mavlink_tests.dir/__/mavlink.c.o
+/usr/bin/ranlib libmodules__mavlink__mavlink_tests.a

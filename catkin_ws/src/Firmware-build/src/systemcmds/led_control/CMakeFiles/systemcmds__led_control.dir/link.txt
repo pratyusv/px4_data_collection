@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcmds__led_control.a  CMakeFiles/systemcmds__led_control.dir/led_control.cpp.o
+/usr/bin/ranlib libsystemcmds__led_control.a

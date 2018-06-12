@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcmds__topic_listener.a  CMakeFiles/systemcmds__topic_listener.dir/topic_listener.cpp.o
+/usr/bin/ranlib libsystemcmds__topic_listener.a

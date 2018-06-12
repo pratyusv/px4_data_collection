@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__uORB.a  CMakeFiles/modules__uORB.dir/Publication.cpp.o CMakeFiles/modules__uORB.dir/Subscription.cpp.o CMakeFiles/modules__uORB.dir/uORB.cpp.o CMakeFiles/modules__uORB.dir/uORBDevices.cpp.o CMakeFiles/modules__uORB.dir/uORBMain.cpp.o CMakeFiles/modules__uORB.dir/uORBManager.cpp.o CMakeFiles/modules__uORB.dir/uORBUtils.cpp.o
+/usr/bin/ranlib libmodules__uORB.a

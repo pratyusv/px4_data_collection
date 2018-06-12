@@ -1,0 +1,6 @@
+mavros/test_mavros
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/test_mavros/lib/libmavros_sitl_test.so /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/libmavros_sitl_test.so
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/test_mavros/lib/pkgconfig/test_mavros.pc /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/pkgconfig/test_mavros.pc
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/test_mavros/lib/test_mavros/sitl_test_node /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/test_mavros/sitl_test_node
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/test_mavros/share/test_mavros/cmake/test_mavrosConfig-version.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake

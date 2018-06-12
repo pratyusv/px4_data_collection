@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcmds__sd_bench.a  CMakeFiles/systemcmds__sd_bench.dir/sd_bench.c.o
+/usr/bin/ranlib libsystemcmds__sd_bench.a

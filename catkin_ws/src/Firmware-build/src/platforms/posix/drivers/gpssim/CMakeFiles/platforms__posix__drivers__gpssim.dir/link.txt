@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatforms__posix__drivers__gpssim.a  CMakeFiles/platforms__posix__drivers__gpssim.dir/gpssim.cpp.o
+/usr/bin/ranlib libplatforms__posix__drivers__gpssim.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__vmount.a  CMakeFiles/drivers__vmount.dir/input.cpp.o CMakeFiles/drivers__vmount.dir/input_mavlink.cpp.o CMakeFiles/drivers__vmount.dir/input_rc.cpp.o CMakeFiles/drivers__vmount.dir/input_test.cpp.o CMakeFiles/drivers__vmount.dir/output.cpp.o CMakeFiles/drivers__vmount.dir/output_mavlink.cpp.o CMakeFiles/drivers__vmount.dir/output_rc.cpp.o CMakeFiles/drivers__vmount.dir/vmount.cpp.o
+/usr/bin/ranlib libdrivers__vmount.a

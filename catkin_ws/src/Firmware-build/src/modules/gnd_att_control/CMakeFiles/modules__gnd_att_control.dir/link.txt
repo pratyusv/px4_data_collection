@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__gnd_att_control.a  CMakeFiles/modules__gnd_att_control.dir/GroundRoverAttitudeControl.cpp.o
+/usr/bin/ranlib libmodules__gnd_att_control.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__drivers__airspeedsim.a  CMakeFiles/platforms__posix__drivers__airspeedsim.dir/airspeedsim.cpp.o CMakeFiles/platforms__posix__drivers__airspeedsim.dir/meas_airspeed_sim.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__drivers__airspeedsim.a

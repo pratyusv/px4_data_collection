@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libdrivers__sf1xx.a  CMakeFiles/drivers__sf1xx.dir/sf1xx.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libdrivers__sf1xx.a

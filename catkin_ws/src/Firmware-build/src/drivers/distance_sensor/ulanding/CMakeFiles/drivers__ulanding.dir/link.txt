@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__ulanding.a  CMakeFiles/drivers__ulanding.dir/ulanding.cpp.o
+/usr/bin/ranlib libdrivers__ulanding.a

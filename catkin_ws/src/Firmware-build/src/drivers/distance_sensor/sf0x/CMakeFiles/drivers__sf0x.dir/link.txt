@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__sf0x.a  CMakeFiles/drivers__sf0x.dir/sf0x.cpp.o CMakeFiles/drivers__sf0x.dir/sf0x_parser.cpp.o
+/usr/bin/ranlib libdrivers__sf0x.a

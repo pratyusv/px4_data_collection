@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__ms4525_airspeed.a  CMakeFiles/drivers__ms4525_airspeed.dir/ms4525_airspeed.cpp.o
+/usr/bin/ranlib libdrivers__ms4525_airspeed.a

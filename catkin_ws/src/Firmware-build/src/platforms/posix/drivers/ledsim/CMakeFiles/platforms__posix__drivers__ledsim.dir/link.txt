@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatforms__posix__drivers__ledsim.a  CMakeFiles/platforms__posix__drivers__ledsim.dir/led.cpp.o
+/usr/bin/ranlib libplatforms__posix__drivers__ledsim.a

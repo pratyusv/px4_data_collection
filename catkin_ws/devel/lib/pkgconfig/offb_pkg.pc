@@ -1,0 +1,1 @@
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg/lib/pkgconfig/offb_pkg.pc

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__tests__muorb.a  CMakeFiles/platforms__posix__tests__muorb.dir/muorb_test_main.cpp.o CMakeFiles/platforms__posix__tests__muorb.dir/muorb_test_start_posix.cpp.o CMakeFiles/platforms__posix__tests__muorb.dir/muorb_test_example.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__tests__muorb.a

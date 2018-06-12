@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__fw_att_control.a  CMakeFiles/modules__fw_att_control.dir/FixedwingAttitudeControl.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__fw_att_control.a

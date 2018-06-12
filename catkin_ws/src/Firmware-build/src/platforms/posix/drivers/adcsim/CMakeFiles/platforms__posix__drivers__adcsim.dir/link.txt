@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplatforms__posix__drivers__adcsim.a  CMakeFiles/platforms__posix__drivers__adcsim.dir/adcsim.cpp.o
+/usr/bin/ranlib libplatforms__posix__drivers__adcsim.a

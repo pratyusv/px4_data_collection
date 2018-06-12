@@ -1,0 +1,8 @@
+prefix=/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros
+
+Name: mavros
+Description: Description of mavros
+Version: 0.23.1
+Cflags: -I/home/pratyush/git/px4_data_collection/catkin_ws/src/mavros/mavros/include -I/usr/include -I/usr/include/eigen3 -I/usr/lib/../include
+Libs: -L/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros/lib -lmavros /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libGeographic.so
+Requires: diagnostic_msgs diagnostic_updater pluginlib roscpp sensor_msgs nav_msgs geographic_msgs std_msgs tf2_ros geometry_msgs libmavconn message_runtime eigen_conversions mavros_msgs

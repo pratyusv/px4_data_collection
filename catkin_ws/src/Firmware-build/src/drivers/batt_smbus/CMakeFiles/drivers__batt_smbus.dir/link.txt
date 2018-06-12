@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__batt_smbus.a  CMakeFiles/drivers__batt_smbus.dir/batt_smbus.cpp.o
+/usr/bin/ranlib libdrivers__batt_smbus.a

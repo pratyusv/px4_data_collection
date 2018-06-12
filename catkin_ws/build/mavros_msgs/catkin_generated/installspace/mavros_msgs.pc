@@ -1,0 +1,8 @@
+prefix=/home/pratyush/git/px4_data_collection/catkin_ws/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.23.1
+Cflags: -I/home/pratyush/git/px4_data_collection/catkin_ws/install/include
+Libs: -L/home/pratyush/git/px4_data_collection/catkin_ws/install/lib 
+Requires: geometry_msgs sensor_msgs geographic_msgs message_runtime std_msgs

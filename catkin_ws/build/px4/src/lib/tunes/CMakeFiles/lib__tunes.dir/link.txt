@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__tunes.a  CMakeFiles/lib__tunes.dir/tunes.cpp.o CMakeFiles/lib__tunes.dir/default_tunes.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__tunes.a

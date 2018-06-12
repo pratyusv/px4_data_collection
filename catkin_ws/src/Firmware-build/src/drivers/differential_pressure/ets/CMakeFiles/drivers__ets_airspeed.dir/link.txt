@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__ets_airspeed.a  CMakeFiles/drivers__ets_airspeed.dir/ets_airspeed.cpp.o
+/usr/bin/ranlib libdrivers__ets_airspeed.a

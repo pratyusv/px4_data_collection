@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__tfmini.a  CMakeFiles/drivers__tfmini.dir/tfmini.cpp.o CMakeFiles/drivers__tfmini.dir/tfmini_parser.cpp.o
+/usr/bin/ranlib libdrivers__tfmini.a

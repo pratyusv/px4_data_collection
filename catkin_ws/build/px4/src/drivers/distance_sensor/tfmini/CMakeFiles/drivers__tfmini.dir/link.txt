@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libdrivers__tfmini.a  CMakeFiles/drivers__tfmini.dir/tfmini.cpp.o CMakeFiles/drivers__tfmini.dir/tfmini_parser.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libdrivers__tfmini.a

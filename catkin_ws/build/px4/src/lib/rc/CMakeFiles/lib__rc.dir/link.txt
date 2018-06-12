@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__rc.a  CMakeFiles/lib__rc.dir/st24.cpp.o CMakeFiles/lib__rc.dir/sumd.cpp.o CMakeFiles/lib__rc.dir/sbus.cpp.o CMakeFiles/lib__rc.dir/dsm.cpp.o CMakeFiles/lib__rc.dir/common_rc.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__rc.a

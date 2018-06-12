@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__device.a  CMakeFiles/drivers__device.dir/CDev.cpp.o CMakeFiles/drivers__device.dir/ringbuffer.cpp.o CMakeFiles/drivers__device.dir/integrator.cpp.o CMakeFiles/drivers__device.dir/posix/I2C.cpp.o CMakeFiles/drivers__device.dir/posix/cdev_platform.cpp.o CMakeFiles/drivers__device.dir/posix/vfile.cpp.o
+/usr/bin/ranlib libdrivers__device.a

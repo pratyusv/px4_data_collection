@@ -1,0 +1,7 @@
+mavros/mavros_extras
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/lib/libmavros_extras.so /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/libmavros_extras.so
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/mavros_extras/servo_state_publisher
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/lib/mavros_extras/copter_visualization /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/mavros_extras/copter_visualization
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/pkgconfig/mavros_extras.pc
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake

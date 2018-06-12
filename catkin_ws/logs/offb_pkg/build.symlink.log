@@ -1,0 +1,3 @@
+Symlinking /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/pkgconfig/offb_pkg.pc
+Symlinking /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/offb_pkg/cmake/offb_pkgConfig.cmake
+Symlinking /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/offb_pkg/cmake/offb_pkgConfig-version.cmake

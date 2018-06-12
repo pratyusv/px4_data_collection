@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexamples__segway.a  CMakeFiles/examples__segway.dir/blocks.cpp.o CMakeFiles/examples__segway.dir/segway_main.cpp.o CMakeFiles/examples__segway.dir/BlockSegwayController.cpp.o
+/usr/bin/ranlib libexamples__segway.a

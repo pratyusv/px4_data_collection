@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__sdlog2.a  CMakeFiles/modules__sdlog2.dir/sdlog2.c.o CMakeFiles/modules__sdlog2.dir/logbuffer.c.o
+/usr/bin/ranlib libmodules__sdlog2.a

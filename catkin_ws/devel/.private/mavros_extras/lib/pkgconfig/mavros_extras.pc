@@ -1,0 +1,8 @@
+prefix=/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras
+
+Name: mavros_extras
+Description: Description of mavros_extras
+Version: 0.23.1
+Cflags: -I/usr/include
+Libs: -L/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/mavros_extras/lib /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: mavros mavros_msgs roscpp sensor_msgs geometry_msgs

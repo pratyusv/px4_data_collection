@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__uORB__uORB_tests.a  CMakeFiles/modules__uORB__uORB_tests.dir/uORB_tests_main.cpp.o CMakeFiles/modules__uORB__uORB_tests.dir/uORBTest_UnitTest.cpp.o
+/usr/bin/ranlib libmodules__uORB__uORB_tests.a

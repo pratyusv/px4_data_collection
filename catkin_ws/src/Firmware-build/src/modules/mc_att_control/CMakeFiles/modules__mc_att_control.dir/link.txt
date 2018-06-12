@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__mc_att_control.a  CMakeFiles/modules__mc_att_control.dir/mc_att_control_main.cpp.o
+/usr/bin/ranlib libmodules__mc_att_control.a

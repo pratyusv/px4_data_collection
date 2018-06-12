@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib__terrain_estimation.a  CMakeFiles/lib__terrain_estimation.dir/terrain_estimator.cpp.o
+/usr/bin/ranlib liblib__terrain_estimation.a

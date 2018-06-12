@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__sf1xx.a  CMakeFiles/drivers__sf1xx.dir/sf1xx.cpp.o
+/usr/bin/ranlib libdrivers__sf1xx.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtemplates__module.a  CMakeFiles/templates__module.dir/module.cpp.o
+/usr/bin/ranlib libtemplates__module.a

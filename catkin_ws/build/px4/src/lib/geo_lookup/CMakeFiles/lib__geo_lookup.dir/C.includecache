@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pratyush/git/px4_data_collection/catkin_ws/src/Firmware/src/lib/geo_lookup/geo_mag_declination.c
+stdint.h
+-
+geo_mag_declination.h
+/home/pratyush/git/px4_data_collection/catkin_ws/src/Firmware/src/lib/geo_lookup/geo_mag_declination.h
+
+/home/pratyush/git/px4_data_collection/catkin_ws/src/Firmware/src/lib/geo_lookup/geo_mag_declination.h
+

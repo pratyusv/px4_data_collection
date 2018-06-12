@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__land_detector.a  CMakeFiles/modules__land_detector.dir/land_detector_main.cpp.o CMakeFiles/modules__land_detector.dir/LandDetector.cpp.o CMakeFiles/modules__land_detector.dir/MulticopterLandDetector.cpp.o CMakeFiles/modules__land_detector.dir/FixedwingLandDetector.cpp.o CMakeFiles/modules__land_detector.dir/VtolLandDetector.cpp.o CMakeFiles/modules__land_detector.dir/RoverLandDetector.cpp.o
+/usr/bin/ranlib libmodules__land_detector.a

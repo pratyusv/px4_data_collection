@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__common.a  CMakeFiles/platforms__common.dir/module.cpp.o CMakeFiles/platforms__common.dir/px4_getopt.c.o CMakeFiles/platforms__common.dir/shutdown.cpp.o CMakeFiles/platforms__common.dir/px4_log.c.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__common.a

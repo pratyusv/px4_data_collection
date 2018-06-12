@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__logger.a  CMakeFiles/modules__logger.dir/logger.cpp.o CMakeFiles/modules__logger.dir/log_writer.cpp.o CMakeFiles/modules__logger.dir/log_writer_file.cpp.o CMakeFiles/modules__logger.dir/log_writer_mavlink.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__logger.a

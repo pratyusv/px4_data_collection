@@ -1,0 +1,8 @@
+prefix=/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg
+
+Name: offb_pkg
+Description: Description of offb_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg/lib 
+Requires: 

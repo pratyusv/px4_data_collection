@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__tests__hello.a  CMakeFiles/platforms__posix__tests__hello.dir/hello_main.cpp.o CMakeFiles/platforms__posix__tests__hello.dir/hello_start_posix.cpp.o CMakeFiles/platforms__posix__tests__hello.dir/hello_example.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__tests__hello.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__events.a  CMakeFiles/modules__events.dir/send_event.cpp.o CMakeFiles/modules__events.dir/temperature_calibration/accel.cpp.o CMakeFiles/modules__events.dir/temperature_calibration/baro.cpp.o CMakeFiles/modules__events.dir/temperature_calibration/gyro.cpp.o CMakeFiles/modules__events.dir/temperature_calibration/task.cpp.o CMakeFiles/modules__events.dir/subscriber_handler.cpp.o CMakeFiles/modules__events.dir/status_display.cpp.o CMakeFiles/modules__events.dir/set_leds.cpp.o
+/usr/bin/ranlib libmodules__events.a

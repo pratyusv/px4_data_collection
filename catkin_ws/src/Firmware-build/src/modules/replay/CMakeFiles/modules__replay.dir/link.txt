@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodules__replay.a  CMakeFiles/modules__replay.dir/replay_main.cpp.o
+/usr/bin/ranlib libmodules__replay.a

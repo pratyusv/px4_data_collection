@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__mc_pos_control.a  CMakeFiles/modules__mc_pos_control.dir/mc_pos_control_main.cpp.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libmodules__mc_pos_control.a

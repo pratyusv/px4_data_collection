@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__px4_layer.a  CMakeFiles/platforms__posix__px4_layer.dir/px4_posix_impl.cpp.o CMakeFiles/platforms__posix__px4_layer.dir/px4_posix_tasks.cpp.o CMakeFiles/platforms__posix__px4_layer.dir/px4_sem.cpp.o CMakeFiles/platforms__posix__px4_layer.dir/lib_crc32.c.o CMakeFiles/platforms__posix__px4_layer.dir/drv_hrt.c.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/libplatforms__posix__px4_layer.a

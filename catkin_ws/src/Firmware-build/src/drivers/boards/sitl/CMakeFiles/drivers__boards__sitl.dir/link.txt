@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__boards__sitl.a  CMakeFiles/drivers__boards__sitl.dir/sitl_led.c.o
+/usr/bin/ranlib libdrivers__boards__sitl.a

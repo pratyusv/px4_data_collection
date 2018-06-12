@@ -1,0 +1,4 @@
+offb_pkg
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg/lib/pkgconfig/offb_pkg.pc /home/pratyush/git/px4_data_collection/catkin_ws/devel/lib/pkgconfig/offb_pkg.pc
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg/share/offb_pkg/cmake/offb_pkgConfig.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/offb_pkg/cmake/offb_pkgConfig.cmake
+/home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/offb_pkg/share/offb_pkg/cmake/offb_pkgConfig-version.cmake /home/pratyush/git/px4_data_collection/catkin_ws/devel/share/offb_pkg/cmake/offb_pkgConfig-version.cmake

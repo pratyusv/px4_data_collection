@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__srf02.a  CMakeFiles/drivers__srf02.dir/srf02.cpp.o
+/usr/bin/ranlib libdrivers__srf02.a

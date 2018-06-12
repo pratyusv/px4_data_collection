@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__linux_gpio.a  CMakeFiles/drivers__linux_gpio.dir/linux_gpio.cpp.o
+/usr/bin/ranlib libdrivers__linux_gpio.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexamples__rover_steering_control.a  CMakeFiles/examples__rover_steering_control.dir/main.cpp.o
+/usr/bin/ranlib libexamples__rover_steering_control.a

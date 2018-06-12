@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdrivers__teraranger.a  CMakeFiles/drivers__teraranger.dir/teraranger.cpp.o
+/usr/bin/ranlib libdrivers__teraranger.a

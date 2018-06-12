@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexamples__uuv_example_app.a  CMakeFiles/examples__uuv_example_app.dir/uuv_example_app.cpp.o
+/usr/bin/ranlib libexamples__uuv_example_app.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblaunchdetection.a  CMakeFiles/launchdetection.dir/LaunchDetector.cpp.o CMakeFiles/launchdetection.dir/CatapultLaunchMethod.cpp.o
+/usr/bin/ranlib liblaunchdetection.a

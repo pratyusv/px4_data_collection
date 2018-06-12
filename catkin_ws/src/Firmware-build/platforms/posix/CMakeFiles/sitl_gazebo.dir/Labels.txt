@@ -1,0 +1,14 @@
+# Target labels
+ sitl_gazebo
+# Source files and their labels
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/platforms/posix/CMakeFiles/sitl_gazebo
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/platforms/posix/CMakeFiles/sitl_gazebo.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/platforms/posix/CMakeFiles/sitl_gazebo-complete.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-install.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-mkdir.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-download.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-update.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-patch.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-configure.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-build.rule
+/home/pratyush/Desktop/quadrotor_lqr/catkin_ws/src/Firmware-build/external/Stamp/sitl_gazebo/sitl_gazebo-forceconfigure.rule

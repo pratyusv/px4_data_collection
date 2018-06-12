@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__geo_lookup.a  CMakeFiles/lib__geo_lookup.dir/geo_mag_declination.c.o
+/usr/bin/ranlib /home/pratyush/git/px4_data_collection/catkin_ws/devel/.private/px4/lib/liblib__geo_lookup.a

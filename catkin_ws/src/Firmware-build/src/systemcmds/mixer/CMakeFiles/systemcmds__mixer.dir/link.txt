@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsystemcmds__mixer.a  CMakeFiles/systemcmds__mixer.dir/mixer.cpp.o
+/usr/bin/ranlib libsystemcmds__mixer.a
